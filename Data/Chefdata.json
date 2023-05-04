@@ -2,7 +2,7 @@
   {
     "id": "01",
     "image": "https://i.postimg.cc/Hxj9q2fY/chef-1.jpg",
-    "name": "Jimmine K. cayer",
+    "name": "KM Kabir",
 
     "year_of_experience": "4 Year of Experience",
     "likes": "14k",
@@ -12,7 +12,7 @@
     "recipe": [
       {
         "id": "01",
-        "recipeItemsImg": "https://i.ibb.co/BqBS2GM/download.jpg",
+        "recipeItemsImg": "https://i.postimg.cc/J478PSyX/recipe-2.jpg",
         "recipeName": "Colcannon Potatoes",
         "ingredients": [
           "Vanilla extract",
@@ -27,7 +27,7 @@
       },
       {
         "id": "02",
-        "recipeItemsImg": "https://i.postimg.cc/WzGFCqbp/chef-2.jpg",
+        "recipeItemsImg": "https://i.postimg.cc/J478PSyX/recipe-2.jpg",
         "recipeName": "Irish Spiced Beef",
         "ingredients": [
           "Grilled Shrimp & Watermelon Sliders",
@@ -62,8 +62,8 @@
   },
   {
     "id": "02",
-    "image": "https://i.ibb.co/FJCdrzX/fivve.png",
-    "name": "Rteyed TA. Doe",
+    "image": "https://i.postimg.cc/WzGFCqbp/chef-2.jpg",
+    "name": "Afran nishu",
     "year_of_experience": "3 Year of Experience",
     "likes": "17k",
 
@@ -122,8 +122,8 @@
   },
   {
     "id": "03",
-    "image": "https://i.ibb.co/ZxGNcRp/six.png",
-    "name": "Htye D. Yela",
+    "image": "https://i.postimg.cc/Z5KBsRkZ/chef-3.jpg",
+    "name": "CH Khalid Hasan",
     "year_of_experience": "8 Year of Experience",
     "likes": "18k",
     "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
@@ -181,8 +181,8 @@
   },
   {
     "id": "04",
-    "image": "https://i.ibb.co/mRtnkNg/fourth.png",
-    "name": "Jon-De",
+    "image": "https://i.postimg.cc/PJQJ2G2P/chef-4.jpg",
+    "name": "Mr Hafiz Ullah ",
     "year_of_experience": "4 Year of Experience",
     "likes": "99k",
     "chefDescription": "A Chef or Cook is responsible for using their culinary expertise to create appetizing dishes for diners to enjoy. Their duties include overseeing kitchen staff, tasting dishes before going to customers and restocking food produce as needed",
@@ -241,8 +241,8 @@
   },
   {
     "id": "05",
-    "image": "https://i.ibb.co/tXKgHmP/third.png",
-    "name": "Yelowt Lat. cayer",
+    "image": "https://i.postimg.cc/LXdsS4WJ/chef-5.jpg",
+    "name": "MD Nayem Khan",
 
     "year_of_experience": "4 Year of Experience",
     "likes": "15k",
@@ -302,7 +302,7 @@
   },
   {
     "id": "06",
-    "image": "https://i.ibb.co/GPX97Ts/second.png",
+    "image": "https://i.postimg.cc/y6yNqHyN/chef-6.jpg",
     "name": "Remdti TAEK. Jiet",
     "year_of_experience": "4 Year of Experience",
     "likes": "8k",
